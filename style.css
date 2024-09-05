@@ -1,0 +1,124 @@
+body {
+ background-color: red;
+}
+.judul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Times New Roman;
+  background-color: cyan;
+  border-radius: 60px;
+  border-style: dotted;
+}
+.dasar {
+  font-family: Arial;
+  background-color: cyan;
+  border-radius: 30px;
+}
+.img1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: can;
+}
+.A {
+  background-color: #f008ec;
+  width: 1300x;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 60px;
+}
+.sekolah {
+  background-color: cyan;
+  border-radius: 30px;
+}
+.gambar {
+
+}
+.akun {
+  background-color: cyan;
+  font-family: Sans-Serif;
+  word-spacing: 5;
+  word-break: 10;
+  height: 340px;
+  border-radius: 30px;
+  align-content: space-around;
+  }
+  .game {
+    background-color: #ed0606;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+  }
+  .t {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: start;
+  }
+.mabar {
+    display: flex;
+    justify-content: right;
+    align-items: right;
+    }
+    .as {
+   background-color: #f008ec;
+   width: 1300x;
+   height: 150px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   border-radius: 60px;
+    }
+    .sosmed {
+   background-color: cyan;
+   font-family: Sans-Serif;H
+   word-spacing: 5;
+   word-break: 10;
+   border-radius: 30px;
+   align-content: space-around;
+    }
+    .medsos {
+    background-color: #ed0606;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    
+    }
+    .sm {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    }
+     
+    container {
+    text-align: center;
+}
+
+.medsos {
+    display: flex;
+    justify-content: center;
+    gap: 10px; /
+    margin-top: 10px; 
+}
+
+.a-navbar img {
+    width: 100px
+    height: auto
+    display: block; 
+}
+.p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: tomato;
+  border-radius: 60px;
+}
+    
+
+    
